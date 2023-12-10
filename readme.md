@@ -21,7 +21,7 @@ RideHailBot is designed to facilitate hassle-free rides at your fingertips. It p
 - Review system
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/RideHailBot.git`
+1. Clone the repository: `git clone https://github.com/yoni1342/Ride-Hail-Telegram-Bot.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Obtain a Telegram Bot API token from BotFather on Telegram.
 4. Update the `API_TOKEN` variable in the code with your Telegram Bot API token.
